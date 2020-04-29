@@ -1,0 +1,9 @@
+venv/
+static/
+__pycache__
+*.pyc
+*.idea
+db.sqlite3
+
+node_modules/
+.next/
