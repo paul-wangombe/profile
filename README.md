@@ -65,6 +65,11 @@ run the app
 ```shell
 npm run dev
 ```
+Project screenshots
 
 ![alt text](https://github.com/paul-wangombe/profile/blob/master/project-screenshots/before-login.png?raw=true)
+![alt text](https://github.com/paul-wangombe/profile/blob/master/project-screenshots/signup.png?raw=true)
+![alt text](https://github.com/paul-wangombe/profile/blob/master/project-screenshots/login.png?raw=true)
+![alt text](https://github.com/paul-wangombe/profile/blob/master/project-screenshots/profile.png?raw=true)
+
 
