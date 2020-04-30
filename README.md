@@ -30,9 +30,14 @@ install requirements
 ```shell
 pip3 install -r requirements.txt
 ```
-run migrations
+migrations
 ```shell
 python manage.py migrate
+```
+you can create a superuse if you want
+run the app
+```shell
+python manage.py runserver
 ```
 
 # configure the frontend
