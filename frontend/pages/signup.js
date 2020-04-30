@@ -2,6 +2,7 @@ import React from 'react';
 import axios from 'axios';
 import {Cookies} from 'react-cookie';
 import Router from "next/router";
+import Link from "next/link";
 import Layout from "../components/layout";
 
 
@@ -140,6 +141,8 @@ class Signup extends React.Component {
                         </div>
                         <button type="submit" className="btn btn-success" id='login-submit'>Sign up</button>
                     </form>
+                    <br/>
+                    <p>Already have an account? <Link href='/login'><a>Login</a></Link></p>
                 </div>
                 <style jsx>
                     {`
