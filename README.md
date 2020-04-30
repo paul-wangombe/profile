@@ -65,3 +65,6 @@ run the app
 ```shell
 npm run dev
 ```
+
+![alt text](https://github.com/paul-wangombe/profile/blob/master/project-screenshots/before-login.png?raw=true)
+
